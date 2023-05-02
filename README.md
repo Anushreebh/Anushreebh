@@ -1,4 +1,7 @@
 👋 Hi, I’m Anushree. 
+
+----
+
 <p> I am an aspiring data analyst, love working in Tableau and SQL. 🌱 I’m currently learning PowerBI and Excel.<p>
 
 Digital Marketing professional with 3 years of experience across diverse work environments with hands-on knowledge of On-page and Off-page SEO tools & tactics, working knowledge of Google Analytics, SEMRush and Moz.
@@ -7,6 +10,8 @@ I am quality focused, a problem solver with a high sense of responsibility and o
 
 👀 My dream is to travel around the world, contribute to the wildlife welfare, and grow into an individual who can positively influence people.
 
+----  
+  
 ✨
 💞️ I’m open to work...
 #### 📫 Let's meet
