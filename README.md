@@ -16,7 +16,7 @@ I am quality focused, a problem solver with a high sense of responsibility and o
 💞️ I’m open to work...
 #### 📫 Let's meet
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushree-bhargava/)](https://www.linkedin.com/in/anushree-bhargava/)
-[![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/app/profile/anushreebh)]([https://public.tableau.com/profile/phonethiriyadana#!/](https://public.tableau.com/app/profile/anushreebh))
+[![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/app/profile/anushreebh)](https://public.tableau.com/app/profile/anushreebh)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Anushreebh)](https://github.com/Anushreebh)
 
 
