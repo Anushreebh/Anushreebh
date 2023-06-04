@@ -2,7 +2,7 @@
 
 <p> I am an aspiring data analyst, love working in Tableau and SQL. 🌱 I’m currently learning PowerBI, Python and Excel.<p>
 
-👩‍💻 Digital Marketing professional with 3.5 years of experience across diverse work environments with hands-on knowledge of On-page and Off-page SEO tools & tactics, working knowledge of Google Analytics, SEMRush and Moz.
+👩‍💻 Marketing professional with 3.5 years of experience across diverse work environments with hands-on knowledge of On-page and Off-page SEO tools & tactics, working knowledge of Google Analytics, SEMRush and Moz.
 
 I am quality focused, a problem solver with a high sense of responsibility and ownership and I believe in bringing significant value to any organization with my skills, mindset, an eye for details and an ability to build trustworthy relationships with clients
   
