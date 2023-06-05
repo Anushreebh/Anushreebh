@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Anushree. 
 
-<p> I am an aspiring data analyst, love working in Tableau and SQL. 🌱 I’m currently learning PowerBI, Python and Excel.<p>
+<p> I am a data analyst, love working in Tableau and SQL. 🌱 I’m currently learning PowerBI, Python and Excel.<p>
 
 👩‍💻 Marketing professional with 3.5 years of experience across diverse work environments with hands-on knowledge of On-page and Off-page SEO tools & tactics, working knowledge of Google Analytics, SEMRush and Moz.
 
