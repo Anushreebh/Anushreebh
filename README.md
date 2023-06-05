@@ -1,12 +1,15 @@
 ## 👋 Hi, I’m Anushree. 
 
-<p> I am a data analyst, love working in Tableau and SQL. 🌱 I’m currently learning PowerBI, Python and Excel.<p>
+<p> An aspiring data and business analyst professional skilled in Tableau and SQL and PowerBI. I am further upskilling myself in Python and Microsoft Excel.<p>
 
-👩‍💻 Marketing professional with 3.5 years of experience across diverse work environments with hands-on knowledge of On-page and Off-page SEO tools & tactics, working knowledge of Google Analytics, SEMRush and Moz.
+👩‍💻 As a marketing professional I used to deal with tonnes of data and always think what I am doing with such data. I am just sending reports to management without understanding what is happening with data. 
+Here comes the picture of " DATA ANALYTICS ". This is my transition from Marketing Professional to Data Analyst .
 
-I am quality focused, a problem solver with a high sense of responsibility and ownership and I believe in bringing significant value to any organization with my skills, mindset, an eye for details and an ability to build trustworthy relationships with clients
+Talking about my experience, I have a experience of 3.5 years across diverse work environments with hands-on knowledge of On-page and Off-page SEO tools & tactics, working knowledge of Google Analytics, SEMRush and Moz.
   
-👀 My dream is to travel around the world, contribute to the wildlife welfare, and grow into an individual who can positively influence people.
+In addition to my techncial skills, I am quality focused, a problem solver with a high sense of responsibility and ownership and I believe in bringing significant value to any organization with my skills, mindset, an eye for details and an ability to build trustworthy relationships with clients
+  
+👀 My favourite part is to talk about my dream which is to travel around the world, contribute to the wildlife welfare, and grow into an individual who can positively influence people.
 ### Skills & Projects 
 + **Tableau** : [Comparative Study of Countries](https://github.com/Anushreebh/Comparative-Study-of-Countries)
 + **SQL** : [Air Cargo Analysis](https://github.com/Anushreebh/Air-Cargo-Analysis)
