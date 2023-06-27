@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Anushree. 
 
-<p> An aspiring data and business analyst professional skilled in Tableau and SQL and PowerBI. I am further upskilling myself in Python and Microsoft Excel.<p>
+<p> Data and Business Analyst professional skilled in Tableau and SQL and PowerBI. I am further upskilling myself in Python and Microsoft Excel.<p>
 
 👩‍💻 As a marketing professional I used to deal with tonnes of data and always think what I am doing with such data. I am just sending reports to management without understanding what is happening with data. 
 Here comes the picture of " DATA ANALYTICS ". This is my transition from Marketing Professional to Data Analyst .
