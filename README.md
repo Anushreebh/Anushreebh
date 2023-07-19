@@ -13,7 +13,7 @@ In addition to my techncial skills, I am quality focused, a problem solver with 
 ### Skills & Projects 
 + **Tableau** : [Comparative Study of Countries](https://github.com/Anushreebh/Comparative-Study-of-Countries)
 + **SQL** : [Air Cargo Analysis](https://github.com/Anushreebh/Air-Cargo-Analysis)
-+ **SQL** : 
++ **SQL** : [Covid-19 Analysis](https://github.com/Anushreebh/COVID-Portfolio-Project---Data-Exploration--SQL)
 ---
 💻 I’m open to work 📫 Let's meet
   
